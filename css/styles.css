@@ -1,0 +1,145 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.middle-container{
+  margin: 80px auto auto auto;
+  line-height: 2;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.footer-link{
+  margin: auto 30px auto auto;
+  text-decoration: none;
+  font-weight: bold;
+  color: #11999E;
+}
+
+.footer-link:hover{
+  color: #EAF6F6;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+h1{
+  font-size: 5.625rem;
+  margin: 50px auto 0  auto;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  font-weight: bold;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  color: #11999E;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.my-description{
+  color: #40514E;
+
+}
+
+.programmer{
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+}
+
+.middle-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.Akshay{
+  border-radius: 100%;
+}
+
+.skill-image{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skills-image{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto ;
+  text-align: justify;
+  line-height: 2;
+}
+
+hr{
+  color: #EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 8%;
+  margin: 100px auto 100px auto;
+}
+
+.mountain{
+}
+
+a{
+
+}
+
+.sign{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.btn {
+background:linear-gradient(to bottom, #11999E 5%, #11999E 100%);
+background-color:#11999E;
+border-radius:15px;
+display:inline-block;
+cursor:pointer;
+color:#ffffff;
+font-family: 'Montserrat', sans-serif;
+font-size:17px;
+padding:11px 23px;
+text-decoration:none;
+margin-bottom: 30px;
+}
+
+.btn:hover {
+background:linear-gradient(to bottom, #8FCFD1 5%, #8FCFD1 100%);
+background-color:#8FCFD1;
+}
+
+.btn:active {
+position:relative;
+top:1px;
+}
